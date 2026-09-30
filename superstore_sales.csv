@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Segment,Region,State,City,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Payment_Mode
+ORD-1001,2025-05-21,CUST-176,Vikram Shah,Home Office,West,Rajasthan,Jaipur,Technology,Phones,iPhone 15,132810.0,2,0.05,12416.46,Credit Card
+ORD-1002,2025-04-30,CUST-129,Neha Kulkarni,Consumer,West,Maharashtra,Pune,Technology,Laptops,HP Pavilion Laptop,235960.0,5,0.2,14050.61,Net Banking
+ORD-1003,2025-12-24,CUST-149,Priya Patel,Consumer,East,West Bengal,Kolkata,Technology,Phones,iPhone 15,251640.0,4,0.1,28327.93,Debit Card
+ORD-1004,2025-08-24,CUST-180,Ananya Singh,Consumer,East,Jharkhand,Ranchi,Office Supplies,Paper,A4 Copy Paper,1995.0,5,0.0,335.43,Net Banking
+ORD-1005,2025-12-05,CUST-159,Arjun Gupta,Consumer,North,Uttar Pradesh,Lucknow,Technology,Laptops,HP Pavilion Laptop,106182.0,2,0.1,22084.73,Debit Card
+ORD-1006,2025-04-18,CUST-169,Pooja Nair,Corporate,North,Punjab,Ludhiana,Office Supplies,Appliances,Desk Lamp,7014.6,6,0.1,1471.55,UPI
+ORD-1007,2025-05-19,CUST-130,Aarav Sharma,Corporate,North,Punjab,Ludhiana,Furniture,Tables,Study Table,31495.5,6,0.25,3837.75,Debit Card
+ORD-1008,2025-04-19,CUST-159,Rahul Verma,Consumer,South,Karnataka,Bengaluru,Office Supplies,Paper,A4 Copy Paper,1496.25,5,0.25,262.98,Debit Card
+ORD-1009,2025-10-15,CUST-118,Aditya Rao,Home Office,North,Delhi,New Delhi,Office Supplies,Binders,Premium Binder,1345.5,5,0.1,225.25,Cash
+ORD-1010,2025-03-20,CUST-160,Aditya Rao,Consumer,West,Gujarat,Ahmedabad,Technology,Phones,Samsung Galaxy S24,370494.3,6,0.05,68878.81,Debit Card
+ORD-1011,2025-10-02,CUST-134,Aditya Rao,Home Office,West,Maharashtra,Pune,Technology,Laptops,Dell Inspiron,119227.5,3,0.25,13713.44,UPI
+ORD-1012,2025-09-17,CUST-168,Aarav Sharma,Home Office,West,Rajasthan,Jaipur,Office Supplies,Art,Sketch Pen Set,1182.75,5,0.05,271.67,Net Banking
+ORD-1013,2025-02-27,CUST-163,Priya Patel,Consumer,East,Bihar,Patna,Furniture,Bookcases,Wooden Bookcase,14847.3,3,0.1,1748.01,Net Banking
+ORD-1014,2025-09-01,CUST-170,Pooja Nair,Home Office,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,4270.25,5,0.05,483.53,UPI
+ORD-1015,2025-11-29,CUST-103,Kavya Deshmukh,Home Office,East,Odisha,Bhubaneswar,Office Supplies,Labels,Address Labels,507.45,3,0.15,87.54,Net Banking
+ORD-1016,2025-02-06,CUST-166,Sneha Joshi,Consumer,North,Haryana,Gurugram,Office Supplies,Binders,Premium Binder,1345.5,6,0.25,119.61,Debit Card
+ORD-1017,2025-03-09,CUST-113,Priya Patel,Home Office,South,Kerala,Kochi,Technology,Accessories,USB-C Hub,8635.2,6,0.2,1209.67,Cash
+ORD-1018,2025-08-28,CUST-144,Priya Patel,Corporate,East,Jharkhand,Ranchi,Furniture,Chairs,Ergonomic Office Chair,53994.0,6,0.0,3390.52,UPI
+ORD-1019,2025-08-18,CUST-171,Priya Patel,Home Office,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,3058.3,2,0.15,295.79,Credit Card
+ORD-1020,2025-03-27,CUST-101,Vikram Shah,Consumer,West,Maharashtra,Pune,Technology,Laptops,HP Pavilion Laptop,200566.0,4,0.15,27413.31,Debit Card
+ORD-1021,2025-12-23,CUST-108,Kavya Deshmukh,Corporate,South,Telangana,Hyderabad,Office Supplies,Art,Sketch Pen Set,1195.2,6,0.2,205.5,Net Banking
+ORD-1022,2025-01-26,CUST-111,Rahul Verma,Consumer,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,2333.25,5,0.15,530.24,Credit Card
+ORD-1023,2025-03-03,CUST-173,Aditya Rao,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Binders,Premium Binder,1420.25,5,0.05,142.57,Debit Card
+ORD-1024,2025-06-10,CUST-110,Aarav Sharma,Home Office,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,3238.2,2,0.1,408.98,Cash
+ORD-1025,2025-04-20,CUST-137,Rahul Verma,Home Office,West,Rajasthan,Jaipur,Technology,Laptops,HP Pavilion Laptop,265455.0,5,0.1,23988.7,Cash
+ORD-1026,2025-12-08,CUST-114,Pooja Nair,Consumer,East,Odisha,Bhubaneswar,Furniture,Furnishings,Office Cushion,4495.5,5,0.1,700.03,Net Banking
+ORD-1027,2025-11-06,CUST-133,Aarav Sharma,Corporate,North,Delhi,New Delhi,Office Supplies,Paper,A4 Copy Paper,598.5,2,0.25,116.6,Credit Card
+ORD-1028,2025-01-02,CUST-155,Aditya Rao,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Copy Paper,1137.15,3,0.05,160.41,Credit Card
+ORD-1029,2025-03-18,CUST-140,Ananya Singh,Home Office,West,Rajasthan,Jaipur,Technology,Laptops,HP Pavilion Laptop,294950.0,5,0.0,58058.93,Credit Card
+ORD-1030,2025-05-08,CUST-120,Sneha Joshi,Home Office,East,Jharkhand,Ranchi,Technology,Accessories,USB-C Hub,10794.0,6,0.0,1397.99,UPI
+ORD-1031,2025-04-02,CUST-132,Rohan Mehta,Consumer,North,Punjab,Ludhiana,Furniture,Chairs,Ergonomic Office Chair,48594.6,6,0.1,5954.4,UPI
+ORD-1032,2025-08-29,CUST-130,Sneha Joshi,Consumer,West,Rajasthan,Jaipur,Office Supplies,Labels,Address Labels,378.1,2,0.05,66.24,Credit Card
+ORD-1033,2025-05-23,CUST-143,Aarav Sharma,Corporate,North,Uttar Pradesh,Lucknow,Office Supplies,Labels,Address Labels,179.1,1,0.1,31.47,Credit Card
+ORD-1034,2025-05-16,CUST-166,Priya Patel,Home Office,East,West Bengal,Kolkata,Technology,Accessories,Mechanical Keyboard,2499.0,1,0.0,408.64,Cash
+ORD-1035,2025-12-29,CUST-126,Ananya Singh,Consumer,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Copy Paper,1596.0,4,0.0,391.29,Cash
+ORD-1036,2025-06-10,CUST-152,Pooja Nair,Home Office,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,3294.0,6,0.0,507.47,Debit Card
+ORD-1037,2025-12-07,CUST-101,Rohan Mehta,Corporate,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,5397.0,4,0.25,858.35,Debit Card
+ORD-1038,2025-11-07,CUST-122,Arjun Gupta,Home Office,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Ergonomic Office Chair,48594.6,6,0.1,3237.85,Credit Card
+ORD-1039,2025-11-21,CUST-126,Rahul Verma,Home Office,East,Odisha,Bhubaneswar,Furniture,Furnishings,Office Cushion,4495.5,5,0.1,321.42,Credit Card
+ORD-1040,2025-11-09,CUST-164,Vikram Shah,Corporate,West,Maharashtra,Mumbai,Office Supplies,Binders,Premium Binder,254.15,1,0.15,48.87,UPI
+ORD-1041,2025-08-06,CUST-116,Neha Kulkarni,Consumer,North,Delhi,New Delhi,Technology,Phones,iPhone 15,132810.0,2,0.05,24762.72,UPI
+ORD-1042,2025-11-01,CUST-171,Neha Kulkarni,Home Office,South,Telangana,Hyderabad,Furniture,Furnishings,Office Cushion,2547.45,3,0.15,234.17,UPI
+ORD-1043,2025-05-07,CUST-110,Pooja Nair,Corporate,South,Kerala,Kochi,Furniture,Tables,Study Table,37794.6,6,0.1,4645.24,Debit Card
+ORD-1044,2025-06-13,CUST-109,Vikram Shah,Corporate,North,Haryana,Gurugram,Office Supplies,Paper,A4 Copy Paper,1995.0,5,0.0,282.55,Cash
+ORD-1045,2025-02-01,CUST-174,Vikram Shah,Corporate,East,Bihar,Patna,Furniture,Tables,Study Table,11898.3,2,0.15,1964.49,Cash
+ORD-1046,2025-07-19,CUST-129,Rohan Mehta,Corporate,West,Maharashtra,Pune,Office Supplies,Appliances,Desk Lamp,4156.8,4,0.2,758.91,Cash
+ORD-1047,2025-06-22,CUST-180,Aditya Rao,Corporate,South,Kerala,Kochi,Technology,Phones,iPhone 15,314550.0,6,0.25,46979.56,Credit Card
+ORD-1048,2025-11-26,CUST-159,Ananya Singh,Consumer,South,Karnataka,Bengaluru,Technology,Phones,iPhone 15,265620.0,4,0.05,52255.79,Debit Card
+ORD-1049,2025-05-10,CUST-109,Arjun Gupta,Corporate,South,Karnataka,Bengaluru,Office Supplies,Paper,A4 Copy Paper,339.15,1,0.15,61.99,Credit Card
+ORD-1050,2025-01-11,CUST-160,Pooja Nair,Consumer,West,Maharashtra,Pune,Office Supplies,Binders,Premium Binder,1420.25,5,0.05,250.79,Debit Card
+ORD-1051,2025-11-07,CUST-104,Rohan Mehta,Home Office,East,Jharkhand,Ranchi,Technology,Accessories,Mechanical Keyboard,11245.5,6,0.25,899.88,Net Banking
+ORD-1052,2025-04-12,CUST-177,Priya Patel,Home Office,South,Karnataka,Bengaluru,Office Supplies,Labels,Address Labels,159.2,1,0.2,29.1,Net Banking
+ORD-1053,2025-08-08,CUST-163,Priya Patel,Home Office,West,Maharashtra,Mumbai,Office Supplies,Appliances,Desk Lamp,7014.6,6,0.1,1445.69,Cash
+ORD-1054,2025-03-20,CUST-169,Neha Kulkarni,Home Office,East,Jharkhand,Ranchi,Furniture,Tables,Study Table,26596.2,4,0.05,2057.41,Cash
+ORD-1055,2025-05-06,CUST-149,Ananya Singh,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Copy Paper,359.1,1,0.1,47.03,Credit Card
+ORD-1056,2025-09-07,CUST-136,Aditya Rao,Consumer,South,Kerala,Kochi,Office Supplies,Storage,File Organizer,988.2,2,0.1,145.41,Credit Card
+ORD-1057,2025-07-28,CUST-103,Priya Patel,Consumer,North,Uttar Pradesh,Lucknow,Technology,Laptops,HP Pavilion Laptop,188768.0,4,0.2,30841.24,Debit Card
+ORD-1058,2025-05-05,CUST-171,Ananya Singh,Home Office,North,Haryana,Gurugram,Office Supplies,Labels,Address Labels,447.75,3,0.25,71.13,Debit Card
+ORD-1059,2025-05-09,CUST-124,Sneha Joshi,Corporate,South,Telangana,Hyderabad,Office Supplies,Paper,A4 Copy Paper,798.0,2,0.0,125.13,UPI
+ORD-1060,2025-10-29,CUST-123,Rohan Mehta,Home Office,South,Kerala,Kochi,Office Supplies,Paper,A4 Copy Paper,1596.0,5,0.2,163.08,Credit Card
+ORD-1061,2025-01-28,CUST-102,Kavya Deshmukh,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,A4 Copy Paper,1795.5,5,0.1,199.93,Debit Card
+ORD-1062,2025-06-24,CUST-163,Priya Patel,Corporate,South,Kerala,Kochi,Furniture,Bookcases,Wooden Bookcase,10998.0,2,0.0,713.01,Net Banking
+ORD-1063,2025-10-16,CUST-180,Sneha Joshi,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,2697.0,3,0.0,591.04,Net Banking
+ORD-1064,2025-06-02,CUST-127,Arjun Gupta,Corporate,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,29745.75,5,0.15,3192.32,UPI
+ORD-1065,2025-05-03,CUST-138,Aarav Sharma,Consumer,East,West Bengal,Kolkata,Technology,Laptops,HP Pavilion Laptop,94384.0,2,0.2,6141.57,UPI
+ORD-1066,2025-08-21,CUST-126,Vikram Shah,Home Office,East,Odisha,Bhubaneswar,Office Supplies,Art,Sketch Pen Set,186.75,1,0.25,21.65,Credit Card
+ORD-1067,2025-03-14,CUST-137,Neha Kulkarni,Corporate,North,Haryana,Gurugram,Technology,Accessories,Wireless Mouse,899.0,1,0.0,92.8,Credit Card
+ORD-1068,2025-07-26,CUST-142,Kavya Deshmukh,Home Office,South,Telangana,Hyderabad,Office Supplies,Art,Sketch Pen Set,597.6,3,0.2,87.05,Debit Card
+ORD-1069,2025-12-12,CUST-106,Rahul Verma,Consumer,West,Maharashtra,Pune,Technology,Laptops,HP Pavilion Laptop,235960.0,5,0.2,46272.41,Cash
+ORD-1070,2025-10-27,CUST-142,Arjun Gupta,Consumer,South,Telangana,Hyderabad,Office Supplies,Paper,A4 Copy Paper,1197.0,4,0.25,297.64,Credit Card
+ORD-1071,2025-12-22,CUST-112,Ananya Singh,Corporate,North,Punjab,Ludhiana,Office Supplies,Storage,File Organizer,1976.4,4,0.1,329.28,Debit Card
+ORD-1072,2025-09-21,CUST-180,Neha Kulkarni,Corporate,East,Bihar,Patna,Technology,Laptops,Dell Inspiron,39742.5,1,0.25,6850.1,Cash
+ORD-1073,2025-10-09,CUST-178,Sneha Joshi,Corporate,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,3238.2,2,0.1,400.52,UPI
+ORD-1074,2025-07-28,CUST-120,Neha Kulkarni,Home Office,East,Odisha,Bhubaneswar,Technology,Phones,iPhone 15,66405.0,1,0.05,14320.4,Debit Card
+ORD-1075,2025-08-30,CUST-118,Priya Patel,Corporate,East,West Bengal,Kolkata,Furniture,Chairs,Ergonomic Office Chair,15298.3,2,0.15,2331.95,Debit Card
+ORD-1076,2025-05-17,CUST-120,Neha Kulkarni,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,494.1,1,0.1,117.18,Net Banking
+ORD-1077,2025-10-10,CUST-174,Vikram Shah,Corporate,South,Kerala,Kochi,Office Supplies,Appliances,Desk Lamp,5520.75,5,0.15,755.34,UPI
+ORD-1078,2025-08-31,CUST-164,Aarav Sharma,Corporate,South,Tamil Nadu,Chennai,Technology,Phones,Samsung Galaxy S24,331494.9,6,0.15,35610.86,UPI
+ORD-1079,2025-02-21,CUST-110,Neha Kulkarni,Corporate,East,Bihar,Patna,Technology,Laptops,Dell Inspiron,225207.5,5,0.15,12551.83,Debit Card
+ORD-1080,2025-02-11,CUST-163,Aditya Rao,Home Office,East,Bihar,Patna,Office Supplies,Labels,Address Labels,447.75,3,0.25,59.35,Credit Card
+ORD-1081,2025-12-17,CUST-113,Neha Kulkarni,Home Office,West,Gujarat,Ahmedabad,Office Supplies,Binders,Premium Binder,852.15,3,0.05,146.14,UPI
+ORD-1082,2025-06-16,CUST-124,Rahul Verma,Consumer,East,Odisha,Bhubaneswar,Technology,Phones,iPhone 15,62910.0,1,0.1,7538.39,UPI
+ORD-1083,2025-12-16,CUST-133,Arjun Gupta,Home Office,West,Gujarat,Ahmedabad,Office Supplies,Labels,Address Labels,338.3,2,0.15,38.33,Credit Card
+ORD-1084,2025-10-07,CUST-155,Pooja Nair,Home Office,South,Telangana,Hyderabad,Office Supplies,Art,Sketch Pen Set,498.0,2,0.0,80.78,Debit Card
+ORD-1085,2025-07-16,CUST-138,Aarav Sharma,Consumer,South,Telangana,Hyderabad,Office Supplies,Art,Sketch Pen Set,996.0,4,0.0,202.13,Cash
+ORD-1086,2025-12-18,CUST-130,Kavya Deshmukh,Home Office,East,West Bengal,Kolkata,Technology,Phones,iPhone 15,419400.0,6,0.0,87019.79,Debit Card
+ORD-1087,2025-05-09,CUST-106,Rohan Mehta,Home Office,North,Haryana,Gurugram,Technology,Accessories,USB-C Hub,8095.5,6,0.25,1390.71,Cash
+ORD-1088,2025-03-09,CUST-147,Aditya Rao,Home Office,West,Maharashtra,Mumbai,Office Supplies,Appliances,Desk Lamp,1169.1,1,0.1,186.55,Net Banking
+ORD-1089,2025-09-04,CUST-129,Arjun Gupta,Corporate,East,West Bengal,Kolkata,Technology,Accessories,Mechanical Keyboard,5622.75,3,0.25,1050.94,Cash
+ORD-1090,2025-01-08,CUST-149,Arjun Gupta,Corporate,East,Jharkhand,Ranchi,Technology,Laptops,HP Pavilion Laptop,141576.0,3,0.2,11394.92,Debit Card
+ORD-1091,2025-01-13,CUST-160,Pooja Nair,Corporate,West,Rajasthan,Jaipur,Office Supplies,Binders,Premium Binder,1196.0,5,0.2,219.22,Debit Card
+ORD-1092,2025-01-24,CUST-150,Neha Kulkarni,Consumer,South,Tamil Nadu,Chennai,Technology,Laptops,Dell Inspiron,47691.0,1,0.1,9893.1,Debit Card
+ORD-1093,2025-12-02,CUST-128,Neha Kulkarni,Corporate,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,764.15,1,0.15,110.98,Cash
+ORD-1094,2025-12-18,CUST-116,Neha Kulkarni,Consumer,North,Haryana,Gurugram,Office Supplies,Appliances,Desk Lamp,3117.6,3,0.2,620.08,Credit Card
+ORD-1095,2025-06-20,CUST-176,Sneha Joshi,Consumer,North,Uttar Pradesh,Lucknow,Technology,Phones,iPhone 15,132810.0,2,0.05,24446.95,UPI
+ORD-1096,2025-01-02,CUST-104,Rahul Verma,Home Office,East,Bihar,Patna,Technology,Accessories,Wireless Mouse,2562.15,3,0.05,550.96,Credit Card
+ORD-1097,2025-06-15,CUST-109,Neha Kulkarni,Home Office,East,Jharkhand,Ranchi,Office Supplies,Binders,Premium Binder,284.05,1,0.05,33.97,Cash
+ORD-1098,2025-02-25,CUST-167,Rohan Mehta,Home Office,East,Jharkhand,Ranchi,Furniture,Furnishings,Office Cushion,3196.8,4,0.2,354.57,Cash
+ORD-1099,2025-07-25,CUST-142,Kavya Deshmukh,Corporate,West,Maharashtra,Pune,Technology,Phones,Samsung Galaxy S24,194997.0,4,0.25,10410.59,UPI
+ORD-1100,2025-11-16,CUST-159,Aditya Rao,Corporate,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,4315.2,6,0.2,573.82,Net Banking
+ORD-1101,2025-02-28,CUST-130,Vikram Shah,Home Office,South,Tamil Nadu,Chennai,Technology,Laptops,Dell Inspiron,238455.0,6,0.25,42063.84,Debit Card
+ORD-1102,2025-02-18,CUST-161,Priya Patel,Corporate,South,Telangana,Hyderabad,Office Supplies,Labels,Address Labels,507.45,3,0.15,63.42,Credit Card
+ORD-1103,2025-02-19,CUST-172,Ananya Singh,Corporate,West,Gujarat,Ahmedabad,Technology,Laptops,HP Pavilion Laptop,265455.0,6,0.25,23514.07,Credit Card
+ORD-1104,2025-08-05,CUST-128,Rahul Verma,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Appliances,Desk Lamp,7794.0,6,0.0,1621.73,Cash
+ORD-1105,2025-10-12,CUST-180,Kavya Deshmukh,Corporate,North,Haryana,Gurugram,Technology,Laptops,Dell Inspiron,158970.0,3,0.0,29690.0,Net Banking
+ORD-1106,2025-04-03,CUST-119,Kavya Deshmukh,Consumer,West,Maharashtra,Pune,Office Supplies,Paper,A4 Copy Paper,897.75,3,0.25,222.18,Cash
+ORD-1107,2025-11-21,CUST-148,Rohan Mehta,Home Office,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,899.0,1,0.0,165.83,Debit Card
+ORD-1108,2025-03-22,CUST-157,Vikram Shah,Consumer,West,Gujarat,Ahmedabad,Technology,Phones,Samsung Galaxy S24,324995.0,5,0.0,56664.7,Debit Card
+ORD-1109,2025-06-26,CUST-106,Sneha Joshi,Consumer,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Office Cushion,3996.0,4,0.0,452.6,Cash
+ORD-1110,2025-06-04,CUST-156,Rahul Verma,Consumer,West,Maharashtra,Mumbai,Technology,Phones,iPhone 15,132810.0,2,0.05,24071.75,UPI
+ORD-1111,2025-10-14,CUST-110,Ananya Singh,Home Office,South,Karnataka,Bengaluru,Office Supplies,Binders,Premium Binder,1614.6,6,0.1,403.45,Net Banking
+ORD-1112,2025-11-24,CUST-180,Neha Kulkarni,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Labels,Address Labels,716.4,4,0.1,63.28,Debit Card
+ORD-1113,2025-05-05,CUST-129,Ananya Singh,Consumer,West,Gujarat,Ahmedabad,Furniture,Chairs,Ergonomic Office Chair,28796.8,4,0.2,3852.36,UPI
+ORD-1114,2025-02-28,CUST-119,Sneha Joshi,Home Office,West,Gujarat,Ahmedabad,Furniture,Furnishings,Office Cushion,3996.0,5,0.2,242.67,Credit Card
+ORD-1115,2025-03-30,CUST-164,Neha Kulkarni,Consumer,North,Delhi,New Delhi,Office Supplies,Paper,A4 Copy Paper,1895.25,5,0.05,398.89,Net Banking
+ORD-1116,2025-06-11,CUST-108,Ananya Singh,Home Office,South,Telangana,Hyderabad,Office Supplies,Storage,File Organizer,933.3,2,0.15,155.62,Net Banking
+ORD-1117,2025-08-20,CUST-112,Kavya Deshmukh,Corporate,West,Gujarat,Ahmedabad,Office Supplies,Art,Sketch Pen Set,249.0,1,0.0,37.77,Net Banking
+ORD-1118,2025-10-11,CUST-161,Aditya Rao,Home Office,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,41994.0,6,0.0,5658.22,UPI
+ORD-1119,2025-06-25,CUST-157,Aditya Rao,Consumer,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,41994.0,6,0.0,3452.19,Net Banking
+ORD-1120,2025-05-25,CUST-143,Priya Patel,Corporate,North,Punjab,Ludhiana,Office Supplies,Appliances,Desk Lamp,4416.6,4,0.15,893.92,Debit Card
+ORD-1121,2025-05-10,CUST-119,Ananya Singh,Corporate,West,Rajasthan,Jaipur,Office Supplies,Labels,Address Labels,895.5,6,0.25,173.13,Debit Card
+ORD-1122,2025-12-29,CUST-168,Priya Patel,Home Office,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,809.1,1,0.1,122.65,Cash
+ORD-1123,2025-06-08,CUST-120,Priya Patel,Corporate,East,Jharkhand,Ranchi,Technology,Phones,iPhone 15,132810.0,2,0.05,15783.5,Debit Card
+ORD-1124,2025-09-27,CUST-121,Rahul Verma,Home Office,West,Rajasthan,Jaipur,Furniture,Furnishings,Office Cushion,749.25,1,0.25,31.69,Net Banking
+ORD-1125,2025-07-30,CUST-158,Sneha Joshi,Consumer,North,Punjab,Ludhiana,Furniture,Tables,Study Table,15747.75,3,0.25,1455.48,Net Banking
+ORD-1126,2025-04-10,CUST-149,Aditya Rao,Corporate,North,Haryana,Gurugram,Office Supplies,Art,Sketch Pen Set,560.25,3,0.25,143.17,Net Banking
+ORD-1127,2025-11-06,CUST-167,Priya Patel,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Mechanical Keyboard,4498.2,2,0.1,315.59,Debit Card
+ORD-1128,2025-08-19,CUST-145,Aarav Sharma,Corporate,West,Gujarat,Ahmedabad,Technology,Accessories,Mechanical Keyboard,11870.25,5,0.05,2237.99,Cash
+ORD-1129,2025-07-11,CUST-143,Rahul Verma,Home Office,West,Maharashtra,Mumbai,Office Supplies,Labels,Address Labels,338.3,2,0.15,47.98,UPI
+ORD-1130,2025-12-23,CUST-128,Rahul Verma,Corporate,West,Maharashtra,Mumbai,Office Supplies,Art,Sketch Pen Set,373.5,2,0.25,73.82,Net Banking
+ORD-1131,2025-05-02,CUST-115,Neha Kulkarni,Corporate,South,Tamil Nadu,Chennai,Technology,Laptops,Dell Inspiron,158970.0,3,0.0,13780.3,Net Banking
+ORD-1132,2025-05-04,CUST-124,Arjun Gupta,Home Office,West,Maharashtra,Pune,Furniture,Furnishings,Office Cushion,5694.3,6,0.05,510.53,Credit Card
+ORD-1133,2025-10-06,CUST-148,Rohan Mehta,Home Office,East,Jharkhand,Ranchi,Technology,Laptops,HP Pavilion Laptop,235960.0,5,0.2,30923.46,Credit Card
+ORD-1134,2025-05-04,CUST-106,Ananya Singh,Corporate,East,Jharkhand,Ranchi,Technology,Laptops,HP Pavilion Laptop,265455.0,6,0.25,38397.83,Net Banking
+ORD-1135,2025-08-26,CUST-159,Aarav Sharma,Home Office,East,Bihar,Patna,Technology,Accessories,Mechanical Keyboard,12744.9,6,0.15,1858.3,Debit Card
+ORD-1136,2025-01-22,CUST-125,Rohan Mehta,Consumer,North,Uttar Pradesh,Lucknow,Technology,Phones,Samsung Galaxy S24,175497.3,3,0.1,25247.15,Debit Card
+ORD-1137,2025-03-05,CUST-124,Neha Kulkarni,Corporate,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,1399.95,3,0.15,306.25,Cash
+ORD-1138,2025-02-12,CUST-142,Priya Patel,Corporate,East,Jharkhand,Ranchi,Furniture,Furnishings,Office Cushion,5094.9,6,0.15,707.01,Credit Card
+ORD-1139,2025-08-17,CUST-146,Kavya Deshmukh,Corporate,East,Bihar,Patna,Office Supplies,Art,Sketch Pen Set,933.75,5,0.25,196.35,Cash
+ORD-1140,2025-12-10,CUST-119,Kavya Deshmukh,Consumer,East,West Bengal,Kolkata,Technology,Phones,Samsung Galaxy S24,331494.9,6,0.15,34735.42,Cash
+ORD-1141,2025-05-01,CUST-158,Ananya Singh,Consumer,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,4854.6,6,0.1,600.55,Debit Card
+ORD-1142,2025-03-12,CUST-124,Neha Kulkarni,Home Office,South,Telangana,Hyderabad,Technology,Laptops,HP Pavilion Laptop,265455.0,5,0.1,34310.04,Net Banking
+ORD-1143,2025-05-14,CUST-126,Priya Patel,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Dell Inspiron,270249.0,6,0.15,22448.66,UPI
+ORD-1144,2025-08-16,CUST-171,Aditya Rao,Consumer,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,5249.25,1,0.25,531.53,Debit Card
+ORD-1145,2025-12-30,CUST-118,Sneha Joshi,Home Office,East,Odisha,Bhubaneswar,Technology,Accessories,Mechanical Keyboard,11245.5,6,0.25,673.11,Cash
+ORD-1146,2025-10-21,CUST-140,Vikram Shah,Home Office,West,Maharashtra,Pune,Office Supplies,Appliances,Desk Lamp,3312.45,3,0.15,629.75,Cash
+ORD-1147,2025-02-07,CUST-171,Arjun Gupta,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Ergonomic Office Chair,16198.2,2,0.1,2088.52,Net Banking
+ORD-1148,2025-09-15,CUST-129,Ananya Singh,Corporate,North,Punjab,Ludhiana,Technology,Accessories,Wireless Mouse,899.0,1,0.0,137.13,Net Banking
+ORD-1149,2025-04-11,CUST-122,Kavya Deshmukh,Corporate,East,Odisha,Bhubaneswar,Technology,Laptops,HP Pavilion Laptop,283152.0,6,0.2,30012.41,Net Banking
+ORD-1150,2025-11-16,CUST-111,Aarav Sharma,Home Office,North,Delhi,New Delhi,Technology,Accessories,Mechanical Keyboard,11995.2,6,0.2,1137.25,Net Banking
